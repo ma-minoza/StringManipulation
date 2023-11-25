@@ -1,7 +1,5 @@
 package string;
 
-import java.sql.Array;
-
 public class ReverseString {
     public static void reverseString(String word){
         StringBuilder stringBuilder = new StringBuilder();
