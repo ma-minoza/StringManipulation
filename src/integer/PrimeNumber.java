@@ -14,9 +14,9 @@ public class PrimeNumber {
         if(n<2){
             return false;
         }
-        System.out.println("SQRT " +Math.sqrt(n));
+
         for(int i = 2; i<=Math.sqrt(n); i++){
-            System.out.println("COUNT " +i);
+
             if(n%i==0){
                 return false;
             }

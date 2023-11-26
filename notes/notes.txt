@@ -1,0 +1,21 @@
+Done:
+ReverseString
+SwapTwoNumber
+CheckVowel
+PrimeNumber
+Fibonacci
+FibonacciRecursive
+PalindromeString
+PalindromeInteger
+Whitespace
+Bubble Sort
+
+To do:
+
+Merger Sort
+selection Sort
+Armstrong number
+crud
+greener side
+tech interview
+IQ test

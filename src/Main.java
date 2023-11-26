@@ -1,7 +1,11 @@
+import integer.Fibonacci;
 import integer.PrimeNumber;
+import integer.Sort;
 import integer.SwapTwoNumber;
 import string.CheckVowel;
+import string.Palindrome;
 import string.ReverseString;
+import string.Whitespace;
 
 import java.util.Scanner;
 
@@ -15,6 +19,17 @@ public class Main {
         //ReverseString.reverseString(scanner.next());
         //SwapTwoNumber.swapTwoNumbers(67, 3);
         //CheckVowel.checkVowel("Tst");
-        PrimeNumber.primeNumber(11);
+        //PrimeNumber.primeNumber(11);
+        //Fibonacci.recursiveFibonacci(10);
+        //Palindrome.checkPalindromeString("lovel");
+        //Palindrome.checkIntegerPalindrome(12321);
+        //Whitespace.removeWhitespace("Test space");
+
+        int[] array = {5, 2, 3, 4, 1};
+        Sort.bubbleSort(array);
+
+        /*String s = "  abc  def\t";
+        s = s.strip();
+        System.out.println(s);*/
     }
 }
